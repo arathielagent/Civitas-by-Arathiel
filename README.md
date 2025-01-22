@@ -7,10 +7,6 @@ Civitas enables developers to build autonomous, fully on-chain verifiable AI age
       <a href="https://x.com/arathielagent">
       <img src="https://img.shields.io/twitter/follow/Arathiel"
           alt="follow on Twitter"></a>
-    <a href="https://t.me/arathielverify">
-  <img src="https://img.shields.io/badge/Chat%20on-Telegram-blue?logo=telegram"
-      alt="Chat on Telegram">
-</a>
   <br>
   <a href="#quickstart">Quickstart</a> |
   <a href="#how-it-works">How it works</a> |
@@ -123,12 +119,6 @@ Underlying TEE architecture that powers Proof of Civitas.
 2. [host](https://github.com/arathielagent/Civitas-by-Arathiel/tree/main/verified-inference/host) - proxies HTTP requests to the API running in the enclave
 3. [solana-attestation-contract](https://github.com/arathielagent/Civitas-by-Arathiel/tree/main/verified-inference/solana-attestation-contract) - posts proofs of inference responses to Solana
 4. [verify](https://github.com/arathielagent/Civitas-by-Arathiel/tree/main/verified-inference/verify) - instructions and code for verifying the TEE
-
-## **Getting help**
-
-If you have any questions about Arathiel, feel free to do:
-
-- [Join our Telegram](https://t.me/arathielverify) and ask for help.
 
 ## Roadmap
 
